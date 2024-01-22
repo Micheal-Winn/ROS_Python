@@ -15,3 +15,6 @@ values = ["one","two","three"]
 for val1 in names:
     for val2 in values:
         print(val1,"is",val2)
+
+number = 5
+print("number",number)
