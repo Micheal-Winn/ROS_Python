@@ -18,3 +18,6 @@ for val1 in names:
 
 number = 5
 print("number",number)
+
+stringValue = "hello"
+print("string",stringValue)
