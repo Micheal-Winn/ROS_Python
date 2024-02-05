@@ -3,3 +3,4 @@ print(len(name))
 user_name = "Hla Hla"
 print(type(user_name))
 print(70+float("500.6"))
+print("hello")
